@@ -33,5 +33,15 @@ Then open your browser at: http://localhost:5173
 Make sure the backend is running before using the frontend
 
 ## ScreenShots
+Here’s how the gallery looks:
 
+![LotusPhoto](https://github.com/user-attachments/assets/284406df-d291-469b-bcb9-681bc25d08b5)
 
+![LotusPhoto01](https://github.com/user-attachments/assets/9a4ae7c5-8f61-4ebf-a4aa-af65939151cb)
+
+![LotusPhoto03](https://github.com/user-attachments/assets/200f8516-49f3-4318-993d-dbedb7bf3d30)
+
+![LotusPhoto02](https://github.com/user-attachments/assets/7e333dad-2a66-4ae4-a541-4ab337a50f49)
+
+This project is still under active development.  
+Please refer to [TODO.md](./TODO.md) for upcoming tasks and enhancements.
