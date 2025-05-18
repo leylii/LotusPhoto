@@ -78,7 +78,7 @@ function Home() {
               <div className="absolute bottom-0 left-0 w-full bg-stone-50 bg-opacity-50 text-white p-2">
                 <h3 className="text-sm text-sm font-semibold">{photo.title}</h3>
                 <p className="text-xs">{photo.category}</p>
-                <Link to={`/photo/${index}`}>
+                <Link to={`/photo/${photo.id}`}>
                     <button className="mt-2 px-4 py-1 text-sm bg-gray-400 text-white rounded-md hover:bg-blue-700">
                       Details
                     </button>

@@ -8,14 +8,14 @@
         private readonly List<Photo> _photos = new()
         {
             new Photo { Id = 0, Title = "shine", Category = "Portrait", PreviewUrl = "/images/previews/img1.jpeg", OriginalPath = "SecureStorage/img1.jpeg", Price = 19.99m },
-            new Photo { Id = 1, Title = "branches", Category = "Landscape", PreviewUrl = "/images/previews/img2.jpeg", OriginalPath = "SecureStorage/img1.jpeg", Price = 11.99m },
-            new Photo { Id = 2, Title = "hope", Category = "Landscape", PreviewUrl = "/images/previews/img3.jpeg", OriginalPath = "SecureStorage/img1.jpeg", Price = 10.99m },
-            new Photo { Id = 3, Title = "illusion", Category = "Nature", PreviewUrl = "/images/previews/img4.jpeg", OriginalPath = "SecureStorage/img1.jpeg", Price = 11.99m },
-            new Photo { Id = 5, Title = "far away", Category = "Portrait", PreviewUrl = "/images/previews/img6.jpeg", OriginalPath = "SecureStorage/img1.jpeg", Price = 11.99m },
-            new Photo { Id = 6, Title = "near", Category = "Portrait", PreviewUrl = "/images/previews/img7.jpeg", OriginalPath = "SecureStorage/img1.jpeg", Price = 13.99m },
-            new Photo { Id = 7, Title = "all together", Category = "Landscape", PreviewUrl = "/images/previews/img8.jpeg", OriginalPath = "SecureStorage/img1.jpeg", Price = 11.99m },
-            new Photo { Id = 8, Title = "dream home", Category = "Landscape", PreviewUrl = "/images/previews/img9.jpeg", OriginalPath = "SecureStorage/img1.jpeg" , Price = 11.99m},
-            new Photo { Id = 9, Title = "sky", Category = "Landscape", PreviewUrl = "/images/previews/img10.jpeg", OriginalPath = "SecureStorage/img1.jpeg", Price = 11.99m },
+            new Photo { Id = 1, Title = "branches", Category = "Landscape", PreviewUrl = "/images/previews/img2.jpeg", OriginalPath = "SecureStorage/img2.jpeg", Price = 11.99m },
+            new Photo { Id = 2, Title = "hope", Category = "Landscape", PreviewUrl = "/images/previews/img3.jpeg", OriginalPath = "SecureStorage/img3.jpeg", Price = 10.99m },
+            new Photo { Id = 3, Title = "illusion", Category = "Nature", PreviewUrl = "/images/previews/img4.jpeg", OriginalPath = "SecureStorage/img4.jpeg", Price = 11.99m },
+            new Photo { Id = 5, Title = "far away", Category = "Portrait", PreviewUrl = "/images/previews/img6.jpeg", OriginalPath = "SecureStorage/img6.jpeg", Price = 11.99m },
+            new Photo { Id = 6, Title = "near", Category = "Portrait", PreviewUrl = "/images/previews/img7.jpeg", OriginalPath = "SecureStorage/img7.jpeg", Price = 13.99m },
+            new Photo { Id = 7, Title = "all together", Category = "Landscape", PreviewUrl = "/images/previews/img8.jpeg", OriginalPath = "SecureStorage/img8.jpeg", Price = 11.99m },
+            new Photo { Id = 8, Title = "dream home", Category = "Landscape", PreviewUrl = "/images/previews/img9.jpeg", OriginalPath = "SecureStorage/img9.jpeg" , Price = 11.99m},
+            new Photo { Id = 9, Title = "sky", Category = "Landscape", PreviewUrl = "/images/previews/img10.jpeg", OriginalPath = "SecureStorage/img10.jpeg", Price = 11.99m },
         };
 
         public Task<IEnumerable<Photo>> GetAllAsync()

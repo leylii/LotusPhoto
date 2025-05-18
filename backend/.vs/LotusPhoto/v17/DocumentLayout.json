@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\momen\\source\\repos\\LotusPhoto\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE5D58A-1A1C-C1B2-4E88-2B0485F618DB}|LotusPhoto.Api\\LotusPhoto.Api.csproj|c:\\users\\momen\\source\\repos\\lotusphoto\\backend\\lotusphoto.api\\repositories\\inmemoryphotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE5D58A-1A1C-C1B2-4E88-2B0485F618DB}|LotusPhoto.Api\\LotusPhoto.Api.csproj|solutionrelative:lotusphoto.api\\repositories\\inmemoryphotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryPhotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\source\\repos\\LotusPhoto\\backend\\LotusPhoto.Api\\Repositories\\InMemoryPhotoRepository.cs",
+              "RelativeDocumentMoniker": "LotusPhoto.Api\\Repositories\\InMemoryPhotoRepository.cs",
+              "ToolTip": "C:\\Users\\momen\\source\\repos\\LotusPhoto\\backend\\LotusPhoto.Api\\Repositories\\InMemoryPhotoRepository.cs",
+              "RelativeToolTip": "LotusPhoto.Api\\Repositories\\InMemoryPhotoRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBEAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:24:03.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
