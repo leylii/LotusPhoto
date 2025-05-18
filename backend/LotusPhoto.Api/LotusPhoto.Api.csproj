@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>11</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.14" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\Previews\img1.jpeg" />
+    <None Include="wwwroot\Images\Previews\img10.jpeg" />
+    <None Include="wwwroot\Images\Previews\img2.jpeg" />
+    <None Include="wwwroot\Images\Previews\img3.jpeg" />
+    <None Include="wwwroot\Images\Previews\img4.jpeg" />
+    <None Include="wwwroot\Images\Previews\img6.jpeg" />
+    <None Include="wwwroot\Images\Previews\img7.jpeg" />
+    <None Include="wwwroot\Images\Previews\img8.jpeg" />
+    <None Include="wwwroot\Images\Previews\img9.jpeg" />
+  </ItemGroup>
+
+</Project>
