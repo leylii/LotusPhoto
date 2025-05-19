@@ -43,5 +43,5 @@ Here’s how the gallery looks:
 
 ![LotusPhoto02](https://github.com/user-attachments/assets/7e333dad-2a66-4ae4-a541-4ab337a50f49)
 
-This project is still under active development.  
-Please refer to [TODO.md](./TODO.md) for upcoming tasks and enhancements.
+This project is being developed gradually. 
+Please refer to [TODO.md](./TODO.md) for future plans and ideas.
