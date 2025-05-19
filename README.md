@@ -19,7 +19,7 @@ The project is still under development, but the core features are already workin
 2. Open the solution in Visual Studio (`LotusPhoto.sln`)
 3. Run the `LotusPhoto.Api` project
 
-Note: By default, the API will run on `https://localhost:xxxx`, where `xxxx` is the port assigned by your system.You can find the actual address in the browser or output window when running the project.
+Note: By default, the API will run on `https://localhost:xxxx`.
 
 
 ### Frontend (React + Vite)
