@@ -17,7 +17,7 @@ Just keeping track of what’s done and what’s left
 * [x] Connect frontend to backend via fetch
 * [x] Show only preview image (not original)
 * [x] Add photo description
-* [x] Add date taken (optional)
+* [x] Add date taken
 
 ---
 
@@ -39,8 +39,8 @@ Just keeping track of what’s done and what’s left
 * [ ] Improve accessibility and SEO
 * [ ] Add unit and integration tests
 * [ ] Protect original path (not exposed to users)
-* [ ] Add Payment and buying functionalities
-* [ ] Admin Page
+* [ ] Admin panel
+      
 
 
 ---
