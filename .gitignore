@@ -3,6 +3,9 @@
 # React + ASP.NET Core
 # =============================
 
+# ========== IDE / Workspace ==========
+.vs/                      # Visual Studio workspace files
+
 # ========== .NET (Backend) ==========
 ## Ignore build outputs
 bin/
