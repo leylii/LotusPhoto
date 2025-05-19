@@ -19,7 +19,7 @@ The project is still under development, but the core features are already workin
 2. Open the solution in Visual Studio (`LotusPhoto.sln`)
 3. Run the `LotusPhoto.Api` project
 
-Note: By default, the API will run on `https://localhost:xxxx`.
+The API will run on `https://localhost:xxxx`.
 
 
 ### Frontend (React + Vite)
@@ -32,8 +32,6 @@ To run the frontend locally using Visual Studio Code:
  
 Make sure to configure the correct API base URL in .env file like:
 VITE_API_BASE_URL=https://localhost:xxxx (replace with your backend port)
-
-
 
 Make sure the backend is running before using the frontend
 
