@@ -5,6 +5,7 @@
 
 # ========== IDE / Workspace ==========
 .vs/                      # Visual Studio workspace files
+backend/.vs/
 
 # ========== .NET (Backend) ==========
 ## Ignore build outputs
