@@ -44,7 +44,8 @@ Just keeping track of what’s done and what’s left
 * [ ] Add unit and integration tests
 * [ ] Protect original path (not exposed to users)
 * [ ] Admin panel
-* [ ] Add filters (in addition to category) 
+* [ ] Add filters (in addition to category)
+* [ ] Writing Unit Tests
       
 
 
