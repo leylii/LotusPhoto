@@ -26,6 +26,10 @@ Just keeping track of what’s done and what’s left
 * [ ] Add Serilog
 * [ ] Improve Details page, add more fields 
 * [ ] Complete Pagination and "load more" support
+* [ ] Improve UIs
+* [ ] Decide about using GUID instead of int
+* [ ] Add more details to models
+* [ ] decide about orientation and category
 
 ---
 
@@ -40,6 +44,7 @@ Just keeping track of what’s done and what’s left
 * [ ] Add unit and integration tests
 * [ ] Protect original path (not exposed to users)
 * [ ] Admin panel
+* [ ] Add filters (in addition to category) 
       
 
 
